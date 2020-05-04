@@ -23,6 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Ofure](https://user-images.githubusercontent.com/64805405/81022461-92906880-8e65-11ea-84ab-883af351d3f9.png)
 [Link](url) and ![Image](src)
 ```
 
